@@ -1,1 +1,1 @@
-# servi-os-azure-categoria
+# serviços-azure-categoria
